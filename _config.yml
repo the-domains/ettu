@@ -1,0 +1,28 @@
+name: ETTU
+favicon: null
+layout_spectrum: 0.5393540898803622
+typography_spectrum: 0.8107213042676449
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.34049008903093636
+  lightness: 0.9014998732600361
+  saturation: 0.00813770410604775
+  rhythmicContrast: 0.8644718239083886
+purpose: []
