@@ -1,7 +1,7 @@
 name: ETTU
 favicon: null
-layout_spectrum: 0.61258
-typography_spectrum: 0.5
+layout_spectrum: 0
+typography_spectrum: 0.08042
 cta:
   domain: null
   bucket: null
